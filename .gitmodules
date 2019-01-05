@@ -1,3 +1,0 @@
-[submodule "source/lib/algolia-instant-search"]
-	path = source/lib/algolia-instant-search
-	url = git@github.com:theme-next/theme-next-algolia-instant-search.git
